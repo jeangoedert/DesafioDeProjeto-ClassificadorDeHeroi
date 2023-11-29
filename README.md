@@ -2,9 +2,9 @@
 DIO - Potência Tech iFood - Programação do Zero: Este é um Desafio de projeto denominado: classificador de nivel de Heroi que tem como objetivo criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói. Utilizando: . - Variáveis - Operadores - Laços de repetição - Estruturas de decisões
 
 
- <p> <h1 align="center">Lógica de Programação</h1></p>
+# Lógica de Programação</h1></p>
 
- - Ênfase nos detalhes fundamentais da programação. Dominar os conceitos básicos, como o uso de variáveis para armazenar informações. A importância de entender e usar laços de repetição para otimizar o fluxo do programa, tornando-o mais otimizado.
+Ênfase nos detalhes fundamentais da programação. Dominar os conceitos básicos, como o uso de variáveis para armazenar informações. A importância de entender e usar laços de repetição para otimizar o fluxo do programa, tornando-o mais otimizado.
 
 Resumo das estruturas de controle utilizadas durante o curso para ajudar iniciantes em programação a entenderem essas construções e suas situações de uso:
 
