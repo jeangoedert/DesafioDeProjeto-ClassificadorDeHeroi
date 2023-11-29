@@ -4,14 +4,7 @@ readme
 
  <p> <h1 align="center">Lógica de Programação</h1></p>
 
- - Neste curso, aprendi sobre os detalhes fundamentais da programação. Primeiro, é importante dominar os conceitos básicos, como o uso de variáveis para armazenar informações. Isso é essencial para qualquer programador. Além disso, aprendi sobre a importância de entender e usar laços de repetição para otimizar o fluxo do programa, tornando-o mais eficiente.
-
-Outro ponto crucial é a criação de funções. Isso permite organizar nosso código de uma forma mais compreensível e reutilizável, tornando o desenvolvimento mais eficiente e menos propenso a erros.
-
-Por fim, o curso menciona o conceito de objetos, que são utilizados para criar estruturas de dados mais complexas. Isso é fundamental para lidar com informações mais complexas e organizadas de maneira eficiente.
-
-Em resumo, o curso enfatiza a importância de dominar esses fundamentos antes de mergulhar em qualquer linguagem de programação. Isso nos dá uma base sólida e a confiança necessária para nos aventurarmos no mundo da programação de forma mais eficaz.
-
+ - Ênfase nos detalhes fundamentais da programação. Dominar os conceitos básicos, como o uso de variáveis para armazenar informações. A importância de entender e usar laços de repetição para otimizar o fluxo do programa, tornando-o mais otimizado.
 
 Resumo das estruturas de controle utilizadas durante o curso para ajudar iniciantes em programação a entenderem essas construções e suas situações de uso:
 
@@ -39,20 +32,18 @@ Resumo das estruturas de controle utilizadas durante o curso para ajudar inician
 
 - **Quando usar**: Use o loop `do-while` quando você precisa que um bloco de código seja executado pelo menos uma vez e, em seguida, repetido com base em uma condição. Assim como com o `while`, evite loops infinitos.
 
-Cada uma dessas estruturas de controle desempenha um papel importante na programação, permitindo que você controle o fluxo do seu código e execute ações com base em condições específicas ou itere sobre dados. Escolha a estrutura que melhor se adapte à sua tarefa específica. Conforme você ganhar mais experiência em programação, você aprenderá a aplicar essas estruturas em situações mais complexas e diversas.
-
 Desafio classificador de nivel de Heroi
 
 O que deve ser utilizado:
-Variáveis 
-Operadores
-Laços de repetição
-Estruturas de decisões
+  Variáveis 
+  Operadores
+  Laços de repetição
+  Estruturas de decisões
 
 Objetivo
-Crie uma variável para armazenar o nome e a quantidade de experiència (XP) de um herói
+  Crie uma variável para armazenar o nome e a quantidade de experiència (XP) de um herói
 
-depois utilize uma estrutura de decisão para apresentar algumas das mensagens abaixo:
+  Depois utilize uma estrutura de decisão para apresentar algumas das mensagens abaixo:
 
 - [x] Se XP for menor do que 1.000 = Ferro
 - [x] Se XP for entre 1001 e 2000 = Bronze
@@ -77,6 +68,7 @@ As demais pastas estão os arquivos com o mesmo propósito do desfio mas estrutu
 
 <a href="#" target="_blank"> <img src="https://camo.githubusercontent.com/ee5225ba7c4338f1a1c10121ec32c396e1a4a2f5b0b58b6afd6d5c56ff5d6196/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2d776f72646d61726b2e737667" alt="firebase" width="40" height="40"/> </a>
 
-#### Formação Lógica de Programação da Dio.me administrado pelo mentor Felipe Aguiar / Tech Lead da DIO
+#### Lógica de Programação e Aplicação de Operadores. 
 
+By:
 [DIO](https://www.dio.me/).
