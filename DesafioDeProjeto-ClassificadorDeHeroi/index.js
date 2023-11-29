@@ -1,8 +1,8 @@
 console.log("Desafio De Projeto: Classificador de Nível de Herói");
 
-let nome = "Thor";
-let xp = 500;
-let nivel = "";
+let nome = "Formiga Atômica";
+let xp = 9500;
+let nivel = "  ";
 
 if (xp < 1000) nivel = "Ferro";
 else if (xp >= 1001 && xp <= 2000) nivel = "Bronze";
