@@ -1,6 +1,6 @@
 # DesafioDeProjeto-ClassificadorDeHeroi
 DIO - Potência Tech iFood - Programação do Zero: Este é um Desafio de projeto denominado: classificador de nivel de Heroi que tem como objetivo criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói. Utilizando: . - Variáveis - Operadores - Laços de repetição - Estruturas de decisões
-readme
+
 
  <p> <h1 align="center">Lógica de Programação</h1></p>
 
@@ -59,8 +59,8 @@ saida
 
 - [x] O Heroi de nome{nome} está no nível de {nivel}
 
-Estrutura de código do desafio está no arquivo : desafio-dio.js
-As demais pastas estão os arquivos com o mesmo propósito do desfio mas estruturados de formas diferentes.
+Estrutura de código do desafio está na pasta: DesafioDeProjeto-ClassificadorDeHeroi
+Nas demais pastas estão exemplos com o mesmo propósito do desfio mas estruturados de formas diferentes, fonte: GitHub
 
 ## Tecnologias utilizadas
 
